@@ -1,7 +1,5 @@
 package org.example.Ex2;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 import static java.lang.Integer.MAX_VALUE;
